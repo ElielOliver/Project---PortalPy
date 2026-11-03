@@ -1,0 +1,7 @@
+
+.env
+
+dados_salvos.json
+
+__pycache__/
+venv/
