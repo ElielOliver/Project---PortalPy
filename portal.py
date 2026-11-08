@@ -25,6 +25,7 @@ FONTE_TEXTO = ("Segoe UI", 13)
 try:
     caminho_fundo = os.path.join(DIRETORIO_BASE, "fundo_gradiente.jpg")
     img_fundo_pil = Image.open(caminho_fundo)
+    img_fundo_pil = Image.open("fundo_gradiente.jpg")
     img_fundo = ctk.CTkImage(light_image=img_fundo_pil, dark_image=img_fundo_pil, size=(900, 800))
     bg_label = ctk.CTkLabel(app, image=img_fundo, text="PortalPy")
     bg_label.place(x=0, y=0, relwidth=1, relheight=1)
@@ -56,7 +57,8 @@ frame_conteudo.pack(fill="both", expand=True, padx=10, pady=5)
 
 try:
     caminho_portal = os.path.join(DIRETORIO_BASE, "Logo Portalpy_ Tecnologia e Educação.png")
-    imagem_pil = Image.open(caminho_portal)
+    imagem_pil = Image.open(caminho_portal)  
+    imagem_pil = Image.open("Logo PortalPy_ Tecnologia e Educação.png")
     logo_img = ctk.CTkImage(light_image=imagem_pil, dark_image=imagem_pil, size=(300, 300))
     logo_label = ctk.CTkLabel(frame_conteudo, image=logo_img, text="")
 except Exception as e:
