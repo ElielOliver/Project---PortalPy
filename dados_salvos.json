@@ -1,0 +1,83 @@
+{
+    "notificacoes": [
+        {
+            "titulo": "Inscrição: TIES - From Prompt to Login: Building Auth with Clerk",
+            "data": "29 out"
+        },
+        {
+            "titulo": "CALENDÁRIO DE PROVAS 2026/2 - PRESENCIAIS",
+            "data": "22 out"
+        },
+        {
+            "titulo": "Agendamento Provas EAD 20%",
+            "data": "20 out"
+        },
+        {
+            "titulo": "Agendamento Provas EAD 20%",
+            "data": "07 out"
+        },
+        {
+            "titulo": "ORIENTAÇÕES DEPARTAMENTO FINANCEIRO",
+            "data": "02 out"
+        },
+        {
+            "titulo": "Comunicado 2 - Prova Regular IN",
+            "data": "16 set"
+        },
+        {
+            "titulo": "FIES – Aditamentos 2026.2 para Contratos Formalizados a partir de 2018.1 ( FIES NOVO)",
+            "data": "28 jul"
+        },
+        {
+            "titulo": "Cronograma da rematrícula e demais procedimentos 2026/2",
+            "data": "03 jul"
+        },
+        {
+            "titulo": "ABONO DE FALTAS - ORIENTAÇÕES",
+            "data": "17 abr"
+        },
+        {
+            "titulo": "Agendamento Provas EAD 20%",
+            "data": "01 abr"
+        }
+    ],
+    "atividades": [],
+    "boletim": [
+        {
+            "disciplina": "Aspectos Legais da Tecnologia da Informação",
+            "av1": "N/A",
+            "tf1": "0",
+            "status": "-"
+        },
+        {
+            "disciplina": "Arquitetura e Organização de Computadores",
+            "av1": "N/A",
+            "tf1": "10",
+            "status": "Cursando"
+        },
+        {
+            "disciplina": "Engenharia de Requisitos",
+            "av1": "7,60",
+            "tf1": "8",
+            "status": "Cursando"
+        },
+        {
+            "disciplina": "Laboratório de Programação",
+            "av1": "5,80",
+            "tf1": "12",
+            "status": "Cursando"
+        },
+        {
+            "disciplina": "Qualidade de Software",
+            "av1": "8,30",
+            "tf1": "2",
+            "status": "Cursando"
+        },
+        {
+            "disciplina": "Sistemas Operacionais",
+            "av1": "8,50",
+            "tf1": "14",
+            "status": "Cursando"
+        }
+    ]
+}
